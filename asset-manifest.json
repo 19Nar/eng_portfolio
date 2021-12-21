@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/eng_portfolio/static/css/main.d2eaa0f7.chunk.css",
+    "main.js": "/eng_portfolio/static/js/main.090a0c77.chunk.js",
+    "main.js.map": "/eng_portfolio/static/js/main.090a0c77.chunk.js.map",
+    "runtime-main.js": "/eng_portfolio/static/js/runtime-main.ed324383.js",
+    "runtime-main.js.map": "/eng_portfolio/static/js/runtime-main.ed324383.js.map",
+    "static/js/2.53d9d743.chunk.js": "/eng_portfolio/static/js/2.53d9d743.chunk.js",
+    "static/js/2.53d9d743.chunk.js.map": "/eng_portfolio/static/js/2.53d9d743.chunk.js.map",
+    "index.html": "/eng_portfolio/index.html",
+    "precache-manifest.d8bd13fbf21817912c199b0e7218611e.js": "/eng_portfolio/precache-manifest.d8bd13fbf21817912c199b0e7218611e.js",
+    "service-worker.js": "/eng_portfolio/service-worker.js",
+    "static/css/main.d2eaa0f7.chunk.css.map": "/eng_portfolio/static/css/main.d2eaa0f7.chunk.css.map",
+    "static/js/2.53d9d743.chunk.js.LICENSE.txt": "/eng_portfolio/static/js/2.53d9d743.chunk.js.LICENSE.txt",
+    "static/media/Agile.JPG": "/eng_portfolio/static/media/Agile.49c08682.JPG",
+    "static/media/BusinessOperations.JPG": "/eng_portfolio/static/media/BusinessOperations.79fcdee1.JPG",
+    "static/media/GITHUB.png": "/eng_portfolio/static/media/GITHUB.8d918353.png",
+    "static/media/PM.JPG": "/eng_portfolio/static/media/PM.47c3bdcd.JPG",
+    "static/media/PRJcollage.jpg": "/eng_portfolio/static/media/PRJcollage.f3c65a2c.jpg",
+    "static/media/book.png": "/eng_portfolio/static/media/book.80dc7617.png",
+    "static/media/credly.JPG": "/eng_portfolio/static/media/credly.56c736d8.JPG",
+    "static/media/facebook.png": "/eng_portfolio/static/media/facebook.51903414.png",
+    "static/media/ibm.png": "/eng_portfolio/static/media/ibm.2ce8cf69.png",
+    "static/media/linkedin.jpg": "/eng_portfolio/static/media/linkedin.377c4ca7.jpg",
+    "static/media/mainframe.JPG": "/eng_portfolio/static/media/mainframe.dd83a69a.JPG",
+    "static/media/movie.png": "/eng_portfolio/static/media/movie.addb3122.png",
+    "static/media/weather.png": "/eng_portfolio/static/media/weather.8f68715e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed324383.js",
+    "static/js/2.53d9d743.chunk.js",
+    "static/css/main.d2eaa0f7.chunk.css",
+    "static/js/main.090a0c77.chunk.js"
+  ]
+}
